@@ -1,1 +1,1 @@
-# AJAX_project
+Nea Westerling
